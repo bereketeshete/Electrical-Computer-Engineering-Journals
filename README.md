@@ -1,7 +1,7 @@
 # Electrical-Computer-Engineering-Journals
 
 
-Nature Electronics (https://proxy2.library.illinois.edu/login?url=https://www.nature.com/natelectron/) <br>
+[Nature Electronics](https://proxy2.library.illinois.edu/login?url=https://www.nature.com/natelectron/) <br>
 2021 Impact Factor: 33.255  <br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence
 2021 Impact Factor: 24.314
